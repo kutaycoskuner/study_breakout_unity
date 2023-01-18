@@ -2,20 +2,22 @@
 - problem oldugunda todoya fix: ile ekle
 - date format dd-mmm-yyyy 10-Oct-2022
 
-# Keys - Discretized Actions 1.6
+# Keys - Discretized Actions 1.7
 - org: organization, decisions, notebook changes
 - arch: architectural, framework change, tryout
 
 - add: add, insert, data content
-    - con: content
-    - sty: style/render
+    - dat: content / data
     - fun: function
     - ins: instructional
 
+- chg: stylistic change
+    - upg: upgrade, progress
+    - sty: stylistic change
+    - tun: tuning on values
+
 - del: deleted
 - fix: fix a bug or problem | compatibility
-- upg: update, upgraded, progressed
-- chg: stylistic change
 
 - std: study, learn, test
 - wip: work in progress
@@ -25,11 +27,18 @@
 - [x] 14-Jan-2023 visual studio installer, unity package download
 - [x] 17-Jan-2023 player movement, limitation
 - [x] 17-Jan-2023 collision object interaction
-- 17-Jan-2023 add: Levelgenerator
+- [x] 18-Jan-2023 17-Jan-2023 add: Levelgenerator
 
 # Procedure
 
 # Log 
+- [0.03] add: Basic ui
+    - 18-Jan-2023 tun: tuning on values for better game play
+    - 18-Jan-2023 add: You Win Screen
+    - 18-Jan-2023 add: GameOver Screen
+    - 18-Jan-2023 wip: UI score, health
+    - 18-Jan-2023 add: LevelGenerator
+
 - [0.02] add: Player, LevelLimits, Brick
     - 17-Jan-2023 add: Brick, collisions and destroy
     - 17-Jan-2023 add: Limits of the level

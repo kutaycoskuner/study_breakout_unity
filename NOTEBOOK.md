@@ -1,5 +1,5 @@
 # Notebook
-- kaldigim yer: https://youtu.be/jyXZ3RVe5as?t=531
+- kaldigim yer: https://youtu.be/jyXZ3RVe5as?t=946
 
 # Links
 - tutorial
@@ -39,6 +39,13 @@
     - fonts
     - physics material
     - prefabs
+
+    - object specific categories
+        - animations
+        - sprites
+        - material
+        - scripts
+        - sounds
 
 - what
     - collider: allows you to set volume for object to contact or block with other things

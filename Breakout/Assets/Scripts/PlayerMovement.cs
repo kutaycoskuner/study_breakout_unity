@@ -17,7 +17,7 @@ public class PlayerMovement : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("Start");
+        //Debug.Log("Start");
     }
 
     // Update is called once per frame
@@ -25,9 +25,9 @@ public class PlayerMovement : MonoBehaviour
     {
         movementHorizontal = Input.GetAxis("Horizontal");
         //Debug.Log(movementHorizontal);
-        if ((movementHorizontal>0 && transform.position.x<maxX) || (movementHorizontal < 0 && transform.position.x > -maxX)) 
-        { 
-        transform.position += Vector3.right * movementHorizontal * speed * Time.deltaTime;
+        if ((movementHorizontal > 0 && transform.position.x < maxX) || (movementHorizontal < 0 && transform.position.x > -maxX))
+        {
+            transform.position += Vector3.right * movementHorizontal * speed * Time.deltaTime;
         }
     }
 }
