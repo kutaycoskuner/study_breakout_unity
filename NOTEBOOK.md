@@ -82,4 +82,6 @@
     - edit > project settings > player > publishing settings > 
         - decompresion fallback: true
     - file > build settings
-    - _Build klasörü ac oraya yap
+    - docs isminde bir klasor olusturup build i buraya yap
+    - root uzerindeki docs u sil
+    - breakout/docs u kes root uzerine yapistir

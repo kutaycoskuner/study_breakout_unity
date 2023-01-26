@@ -32,7 +32,7 @@
 # Procedure
 
 # Log 
-- [0.043] test: Deployment
+- [0.044] add: Deployment
     - 26-Jan-2023 test: Deployment
 
 - [0.03] add: Basic ui
