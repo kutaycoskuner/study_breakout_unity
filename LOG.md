@@ -36,7 +36,8 @@
 - push
 
 # Log 
-- [0.05] add: Main menu
+- [0.051] add: Main menu
+    - 26-Jan-2023 test: Deployment
     - 26-Jan-2023 add: Does not start the game until player gives an input
     - 26-Jan-2023 add: Instructions
     - 26-Jan-2023 add: MainMenu play / quit functions
