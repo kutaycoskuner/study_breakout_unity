@@ -75,4 +75,7 @@
     - Debug.Log("print");
 
 # How to
-
+- <making webgl build>
+    - file > project settings > player > publishing settings > decompresion fallback
+    - file > build settings
+    - _Build klasörü ac oraya yap
