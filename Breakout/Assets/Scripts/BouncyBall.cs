@@ -27,7 +27,7 @@ public class BouncyBall : MonoBehaviour
 
 
     int score = 0;
-    int lives = 3;
+    public int lives = 3;
 
 
     // Start is called before the first frame update
@@ -52,6 +52,7 @@ public class BouncyBall : MonoBehaviour
                 rb.velocity = Vector3.zero;
                 lives -= 1;
                 img_Lives[lives].SetActive(false);
+                rb.gravityScale = 0;
             }
         }
 
