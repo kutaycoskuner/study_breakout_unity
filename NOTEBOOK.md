@@ -76,6 +76,9 @@
 
 # How to
 - <making webgl build>
-    - file > project settings > player > publishing settings > decompresion fallback
+    - edit > project settings > player > resolution and presentation > 
+        - run in backgroud: true
+        - webgl template: minimal
+    - edit > project settings > player > publishing settings > decompresion fallback
     - file > build settings
     - _Build klasörü ac oraya yap
