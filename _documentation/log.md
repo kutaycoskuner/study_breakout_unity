@@ -36,6 +36,11 @@
 - push
 
 # Log 
+- [0.06] organized documentation files, updated readme
+    - 15-Sep-2024
+        - update readme
+        - arch collecting documentatioon files log, notebook, timelog in same folder.
+
 - [0.051] add: Main menu
     - 26-Jan-2023 test: Deployment
     - 26-Jan-2023 add: Does not start the game until player gives an input
